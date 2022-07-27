@@ -1,1 +1,1 @@
-document.querySelector("#id_tel");
+const listaTeclas = document.querySelectorAll('.teclas');

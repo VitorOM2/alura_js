@@ -5,7 +5,7 @@ function tocaSom(idElementoAudio){
         elemento.play();
     }
     else{
-        alert('Elemento ou seletor inválido';)
+        alert('Elemento ou seletor inválido');
     }
 
 }
